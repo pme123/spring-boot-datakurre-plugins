@@ -7,3 +7,5 @@ build/
 gradle/
 test-classes/
 /.idea
+/.datakurre/
+/.camunda-h2-default/process-engine.mv.db
