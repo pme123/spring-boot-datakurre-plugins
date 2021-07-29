@@ -1,8 +1,12 @@
 apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'org.camunda.bpm.spring.boot.example.twitter.TwitterServletProcessApplication'
 
 repositories {
 	mavenCentral()
 }
+
 def springBootVersion = "2.4.4"
 def camundaVersion = "7.15.0"
 def h2Version = "1.4.200"

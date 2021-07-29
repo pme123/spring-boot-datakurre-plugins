@@ -5,4 +5,4 @@
 _/        _/    _/  _/    _/    _/  _/    _/  _/    _/  _/    _/  _/    _/  _/  _/    _/
  _/_/_/    _/_/_/  _/    _/    _/    _/_/_/  _/    _/    _/_/_/    _/_/_/  _/    _/_/_/
 
-- ASCII Art by http://www.patorjk.com/software/taag
+                                           >>> features Asko Soukka's cool Cockpit plugins
