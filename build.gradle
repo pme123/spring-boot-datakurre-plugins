@@ -1,0 +1,18 @@
+apply plugin: 'java'
+
+repositories {
+	mavenCentral()
+}
+def springBootVersion = "2.4.4"
+def camundaVersion = "7.15.0"
+def h2Version = "1.4.200"
+def twitter4jVersion = "4.0.7"
+
+dependencies {
+	compile "org.springframework.boot:spring-boot-starter-web:" + springBootVersion
+	compile "org.springframework.boot:spring-boot-starter-jdbc:" + springBootVersion
+	compile "org.camunda.bpm.springboot:camunda-bpm-spring-boot-starter-rest:" + camundaVersion
+	compile "org.camunda.bpm.springboot:camunda-bpm-spring-boot-starter-webapp:" + camundaVersion
+	compile "com.h2database:h2:" + h2Version
+	compile "org.twitter4j:twitter4j-core:" + twitter4jVersion
+}
