@@ -8,7 +8,7 @@ _/        _/    _/  _/    _/    _/  _/    _/  _/    _/  _/    _/  _/    _/  _/  
 
 ```
 
-Asko Soukka's cool Cockpit plugins bundled with a spring boot App.
+**_Asko Soukka's cool Cockpit plugins bundled with a spring boot App.**_
 
 See for more infos on the plugins here: [camunda-cockpit-plugins](https://github.com/datakurre/camunda-cockpit-plugins/)
 
