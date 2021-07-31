@@ -33,3 +33,5 @@ To update the plugins, all you have to do, is to run the provided Ammonite Scrip
 `amm ./update-plugin.sc`
 
 If you do not want to install [Ammonite](http://ammonite.io), I think you can easily make a bash file from it (no magic there;).
+
+> This script can be used with any Spring Boot application! Just check if `pluginsTo` points to the right place.
