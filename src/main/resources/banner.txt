@@ -6,3 +6,7 @@ _/        _/    _/  _/    _/    _/  _/    _/  _/    _/  _/    _/  _/    _/  _/  
  _/_/_/    _/_/_/  _/    _/    _/    _/_/_/  _/    _/    _/_/_/    _/_/_/  _/    _/_/_/
 
                                            >>> features Asko Soukka's cool Cockpit plugins
+
+  Spring-Boot: ${spring-boot.formatted-version}
+  Camunda Platform: ${camunda.bpm.formatted-version}
+  Open http://localhost:${server.port}
